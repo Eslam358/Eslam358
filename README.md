@@ -45,7 +45,7 @@
   
   <a href="tel:+201002679358">
     <img src="https://custom-icon-badges.demolab.com/badge/-Phone-009688?style=for-the-badge&logo=phone&logoColor=white" alt="Phone">
-    <p>+201002679358</p>
+  
   </a>
   
   <a href="https://www.linkedin.com/in/eslam-fayez-462181193">
